@@ -1178,10 +1178,9 @@ button.btn.btn-primary.rounded-circle.Primary-lfg.njk {
   border-radius: 34px 0px 45px 10px;
   color: #fff;
 }
-
 ul.nav.navbar-nav.nav-ctrl >li {
-  float: left;
-  margin-right: -3px !important;
+    float: left;
+    margin-right: 10px !important;
 }
 .Design-ste span {
   color: #ffe000;
